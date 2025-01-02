@@ -28,19 +28,19 @@ const Projects = () => (
       {/* Project 2 */}
       <div className="bg-darkBlue-600 p-6 rounded-lg shadow-lg">
         <img
-          src="/learn-about-rights-donate.png"
+          src="/Kintaraa platform.png"
           alt="Project Two"
           className="w-full h-60 object-cover rounded-lg mb-4"
         />
         <h3 className="text-xl font-semibold mb-2">
-          Kintsugi: Blockchain-Based Support Platform for GBV Survivors
+          Kintaraa: Blockchain-Based Support Platform for GBV Survivors
         </h3>
         <p>
-          Kintsugi is a blockchain-powered platform designed to support Gender-Based Violence (GBV) survivors by ensuring privacy, security, and empowerment. The platform allows anonymous reporting, facilitates financial support through donations, enables peer-to-peer connections, and provides access to educational and medical resources.
+          Kintaraa is a blockchain-powered platform designed to support Gender-Based Violence (GBV) survivors by ensuring privacy, security, and empowerment. The platform allows anonymous reporting, facilitates financial support through donations, enables peer-to-peer connections, and provides access to educational and medical resources.
         </p>
         <div className="mt-4 flex gap-4">
           <a
-            href="https://github.com/Cherrypick14/kintsugi"
+            href="https://github.com/Kintaraa/kintaraa"
             target="_blank"
             rel="noopener noreferrer"
             className="text-lightBlue-400 hover:underline"
@@ -48,7 +48,7 @@ const Projects = () => (
             GitHub
           </a>
           <a
-            href="https://hxclu-4qaaa-aaaal-ajxkq-cai.icp0.io/"
+            href="https://24dyw-2yaaa-aaaam-adxmq-cai.icp0.io/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-lightBlue-400 hover:underline"
