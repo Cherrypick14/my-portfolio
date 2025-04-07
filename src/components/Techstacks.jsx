@@ -37,10 +37,7 @@ const TechStacks = () => (
         <FaPython size={60} className="mx-auto mb-2 text-lightBlue-400" />
         <p>Python</p>
       </div>
-      <div className="tech-stack-item bg-darkBlue-600 p-6 rounded-lg shadow-lg text-center">
-        <img src="/icp.png" alt="ICP" className="w-16 h-16 mx-auto mb-2" />
-        <p>Internet Computer</p>
-      </div>
+     
     </div>
   </section>
 );

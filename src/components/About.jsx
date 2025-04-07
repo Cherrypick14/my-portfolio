@@ -17,7 +17,7 @@ const About = () => (
       {/* Picture on the right */}
       <div className="md:w-1/2 flex justify-center">
         <img 
-          src="/my_profile.png" 
+          src="/cheryl.jpeg" 
           alt="Cheryl's Profile" 
           className="w-72 h-72 rounded-full object-cover shadow-lg"
         />

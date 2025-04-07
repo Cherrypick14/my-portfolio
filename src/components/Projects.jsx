@@ -5,22 +5,30 @@ const Projects = () => (
       {/* Project 1 */}
       <div className="bg-darkBlue-600 p-6 rounded-lg shadow-lg">
         <img
-          src="/skillshub.webp"
+          src="/Coinwryt.png"
           alt="Project One"
           className="w-full h-60 object-cover rounded-lg mb-4"
         />
-        <h3 className="text-xl font-semibold mb-2">Skills_Hub: Collaborative Learning Platform</h3>
+        <h3 className="text-xl font-semibold mb-2">CoinWryt: Own Your Words, Write the Future</h3>
         <p>
-          Skills_Hub is a decentralized backend platform built on the Internet Computer Protocol (ICP), designed to manage users, their skills, and learning resources. The project is implemented as a Rust-based canister smart contract, which enables users to manage profiles, share resources, and find learning matches, all via the command-line interface (CLI) using DFX.
+        CoinWryt is a decentralized marketplace that empowers ghostwriters with fair pay and verified ownership through blockchain. It connects clients to top-tier writers for authentic storytelling, without middlemen. We’re redefining ghostwriting—secure, transparent, and writer-first.
         </p>
         <div className="mt-4 flex gap-4">
           <a
-            href="https://github.com/Cherrypick14/skills_hub"
+            href="https://github.com/Cherrypick14/CoinWryt"
             target="_blank"
             rel="noopener noreferrer"
             className="text-lightBlue-400 hover:underline"
           >
             GitHub
+          </a>
+          <a
+            href="https://coinwryt-vh7q.onrender.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-lightBlue-400 hover:underline"
+          >
+            Live Demo
           </a>
         </div>
       </div>
@@ -28,27 +36,27 @@ const Projects = () => (
       {/* Project 2 */}
       <div className="bg-darkBlue-600 p-6 rounded-lg shadow-lg">
         <img
-          src="/Kintaraa platform.png"
+          src="/surveai.png"
           alt="Project Two"
           className="w-full h-60 object-cover rounded-lg mb-4"
         />
         <h3 className="text-xl font-semibold mb-2">
-          Kintaraa: Blockchain-Based Support Platform for GBV Survivors
+         SurveAI: AI-Powered Surveillance with Blockchain-Backed Integrity
         </h3>
         <p>
-          Kintaraa is a blockchain-powered platform designed to support Gender-Based Violence (GBV) survivors by ensuring privacy, security, and empowerment. The platform allows anonymous reporting, facilitates financial support through donations, enables peer-to-peer connections, and provides access to educational and medical resources.
+        SurveAI is a next-gen surveillance system that uses real-time AI threat detection and blockchain for secure, tamper-proof data logging. Built with a mission to transform global security infrastructure, it empowers cities, enterprises, and institutions with smarter, trust-first monitoring.
         </p>
         <div className="mt-4 flex gap-4">
-          <a
+          {/* <a
             href="https://github.com/Kintaraa/kintaraa"
             target="_blank"
             rel="noopener noreferrer"
             className="text-lightBlue-400 hover:underline"
           >
             GitHub
-          </a>
+          </a> */}
           <a
-            href="https://24dyw-2yaaa-aaaam-adxmq-cai.icp0.io/"
+            href="https://surve.onrender.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-lightBlue-400 hover:underline"

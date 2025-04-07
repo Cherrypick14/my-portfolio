@@ -4,7 +4,7 @@ const WhatIDo = () => (
     <p className="text-center max-w-2xl">
       I specialize in full-stack development, creating responsive and dynamic user interfaces with efficient backend systems. 
       As a blockchain developer, I focus on building decentralized applications (dApps) and smart contracts. 
-      Currently, I'm building innovative blockchain solutions on the Internet Computer Protocol (ICP) platform.
+      
     </p>
   </section>
 );
